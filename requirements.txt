@@ -1,4 +1,4 @@
-piaiohttp==3.9.3
+aiohttp
 aiohttp_apispec==3.0.0b2
 aiohttp_session==2.12.0
 cryptography==42.0.5
